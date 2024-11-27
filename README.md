@@ -1,5 +1,5 @@
 # 💫 About Me
-Hello, I'm **Kenji Restan Shahuri**, a computer engineering student.
+Hello, I'm **Kenji Restan Syahuri**, a computer engineering student.
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kenjisyahuri_)
